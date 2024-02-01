@@ -5,7 +5,7 @@ Engineering Student @ Sethu Institute Of Technology
 - 🌱 I’m currently learning JS
 - 🤔 I’m looking for placements
 - 💬 Ask me about Tech
-- 📫 How to reach me : <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/kalai-sekar-574413269)
+- 📫 How to reach me : <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/kalaisekar)
    
 
 <!---
